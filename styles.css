@@ -11,6 +11,7 @@ DARK BLUE: #1D3557
 body {
     margin: 0;
     text-align: center;
+    font-family: "Montserrat", sans-serif;
 }
 
 #hero {
@@ -22,7 +23,7 @@ body {
     justify-content: center;
     align-items: center;
     color: white;
-    text-shadow: 3px 3px 5px black;
+    text-shadow: 5px 5px 5px black;
 }
 
 h1 {
